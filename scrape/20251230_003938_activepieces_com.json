@@ -1,0 +1,29 @@
+{
+  "title": "Page Not Found",
+  "url": "https://www.activepieces.com/docs/pieces/overview",
+  "text": "[Skip to main content](https://www.activepieces.com/docs/pieces/overview#content-area)\n\n[Activepieces home page![light logo](https://mintlify.s3.us-west-1.amazonaws.com/activepieces/resources/logo/light.svg)![dark logo](https://mintlify.s3.us-west-1.amazonaws.com/activepieces/resources/logo/dark.svg)](https://www.activepieces.com/)\n\nSearch...\n\nCtrl K\n\nSearch...\n\nNavigation\n\nPage Not Found\n\n[Overview](https://www.activepieces.com/docs/overview/welcome) [Admin Guide](https://www.activepieces.com/docs/admin-guide/guides/structure-projects) [Deploy](https://www.activepieces.com/docs/install/overview) [Embedding](https://www.activepieces.com/docs/embedding/overview) [Build Pieces](https://www.activepieces.com/docs/build-pieces/building-pieces/overview) [API Reference](https://www.activepieces.com/docs/endpoints/overview) [Handbook](https://www.activepieces.com/docs/handbook/overview)\n\n404\n\n# Page Not Found\n\nWe couldn't find the page. Maybe you were looking for one of these pages below?\n\n[How to Manage Pieces](https://www.activepieces.com/docs/admin-guide/guides/manage-pieces#overview) [Overview](https://www.activepieces.com/docs/build-pieces/building-pieces/overview#) [Piece Versioning](https://www.activepieces.com/docs/build-pieces/piece-reference/piece-versioning#piece-versioning)\n\nCtrl+I\n\nAssistant\n\nResponses are generated using AI and may contain mistakes.",
+  "metadata": {
+    "language": "en",
+    "viewport": "width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover",
+    "application-name": "Activepieces",
+    "msapplication-config": "/docs/_mintlify/favicons/activepieces/mJ8FThQoAcZ_itr2/_generated/favicon/browserconfig.xml",
+    "generator": "Mintlify",
+    "mode": "custom",
+    "title": "Page Not Found",
+    "apple-mobile-web-app-title": "Activepieces",
+    "msapplication-TileColor": "#9675FF",
+    "next-size-adjust": "",
+    "robots": "noindex, nofollow",
+    "favicon": "https://www.activepieces.com/docs/_mintlify/favicons/activepieces/mJ8FThQoAcZ_itr2/_generated/favicon/favicon-16x16.png",
+    "scrapeId": "019b6cb2-3b3b-71a6-ad9b-8b1ac7bd420d",
+    "sourceURL": "https://www.activepieces.com/docs/pieces/overview",
+    "url": "https://www.activepieces.com/docs/pieces/overview",
+    "statusCode": 200,
+    "contentType": "text/html; charset=utf-8",
+    "proxyUsed": "basic",
+    "cacheState": "hit",
+    "cachedAt": "2025-12-29T09:56:27.925Z",
+    "creditsUsed": 1,
+    "concurrencyLimited": false
+  }
+}
